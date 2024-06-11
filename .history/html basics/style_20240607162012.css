@@ -1,0 +1,14 @@
+table{
+      width: 20%;
+      border-collapse: collapse;
+      margin: 10px;
+      padding: 10px;;
+      border-radius: 50px;
+      border: none;
+      border-color:saddlebrown
+}
+
+#head1{
+
+    text-align: center;
+}

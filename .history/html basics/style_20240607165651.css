@@ -1,0 +1,14 @@
+table{
+   width: 40%; 
+      
+}
+
+
+
+.table td:hover {
+   background: red;
+}
+#head1{
+
+    text-align: center;
+}

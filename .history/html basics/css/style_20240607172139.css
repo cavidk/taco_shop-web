@@ -1,0 +1,12 @@
+
+.table td:hover {
+   background: yellow;
+}
+
+body{
+   width: 50%;
+}
+
+#expand{
+  text-align: center;
+}
